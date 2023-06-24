@@ -1,3 +1,3 @@
 # HELLOW-WORLD
 ALX training
-Hellow Iam anew AlX trainee
+Hellow Iam a new AlX trainee
